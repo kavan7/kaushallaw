@@ -14,7 +14,7 @@ const Discover = () => {
         Our team of legal professionals collaborates closely with company leadership, carefully reviewing contracts, policies, and compliance measures. Meanwhile, our attorneys diligently assess potential legal risks, ensuring every aspect of the business is thoroughly examined. We also conduct detailed due diligence to uncover any hidden liabilities or opportunities.
         </p>
         <p>
-        Upon completing our comprehensive legal review, we provide our clients with a strategic plan that includes actionable recommendations and a clear pathway forward, aligned with their goals and budget.
+        Upon completing our comprehensive legal review, we give our clients with a strategic plan that includes actionable recommendations and a clear pathway forward, aligned with their goals and budget.
         </p>
       </div>
       <h3 className="mt-12 font-display text-base font-semibold text-neutral-950">
