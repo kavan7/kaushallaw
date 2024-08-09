@@ -15,12 +15,12 @@ export default function Layout({ children }) {
     <html
       lang="en"
       className="h-full bg-neutral-950 text-base antialiased text-neutral-100"
-    > 
+    > <AuroraBackground>
            <body className="flex min-h-full flex-col">
           <RootLayout>{children}</RootLayout> 
       </body>
      
-      
+      </AuroraBackground>
     </html>
     
   );
